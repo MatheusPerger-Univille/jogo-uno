@@ -1,0 +1,16 @@
+* {
+    font-family: 'Bangers', cursive;
+}
+
+.carta {
+    cursor: pointer;
+}
+
+.carta:hover {
+    background-color: #f7f7f7;
+}
+
+.linha-cores {
+    justify-content: center;
+}
+
