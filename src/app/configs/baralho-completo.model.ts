@@ -114,10 +114,10 @@ export const BARALHO_COMPLETO: Carta[] = [
         {id: 103, numero: undefined, cor: undefined, especial: true, tipo: Tipo.MAIS_QUATRO, nomeImagem: 'MAIS_QUATRO_PRETO_ESPECIAL.svg'},
         {id: 104, numero: undefined, cor: undefined, especial: true, tipo: Tipo.MAIS_QUATRO, nomeImagem: 'MAIS_QUATRO_PRETO_ESPECIAL.svg'},
 
-        {id: 105, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'CARTA_TRAS.svg'},
-        {id: 106, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'CARTA_TRAS.svg'},
-        {id: 107, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'CARTA_TRAS.svg'},
-        {id: 108, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'CARTA_TRAS.svg'},
+        {id: 105, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'ESCOLHE_COR_PRETO_ESPECIAL.svg'},
+        {id: 106, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'ESCOLHE_COR_PRETO_ESPECIAL.svg'},
+        {id: 107, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'ESCOLHE_COR_PRETO_ESPECIAL.svg'},
+        {id: 108, numero: undefined, cor: undefined, especial: true, tipo: Tipo.ESCOLHE_COR, nomeImagem: 'ESCOLHE_COR_PRETO_ESPECIAL.svg'},
 ]
    
  
